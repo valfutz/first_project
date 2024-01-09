@@ -42,7 +42,7 @@ add a subtask using the `Add` button
 users to select and modify task deadlines.
 - Select the task, use the `Choose deadline` button.
 - The current deadline will be displayed in the input field.
-- Change deadline in the input field, select the task again and use the `Change task` button
+- Change deadline in the input field, select the task again and use the `Change deadline` button
 - Deadline defaults to 3 days. You can select and change it only in the main task.
 
 ### Marking Tasks as Completed:
